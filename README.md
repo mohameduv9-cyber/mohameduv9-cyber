@@ -13,5 +13,5 @@ I'm an **Electrical Engineering Student** and **Systems Developer** passionate a
 - **EV Electronic Differential:** Implementing control logic for electric vehicles using STM32 and CAN communication.
 
 ### 📫 How to reach me:
-- [LinkedIn]([http://www.linkedin.com/in/mohamed-salah](http://www.linkedin.com/in/mohamed-salah---))
+- [LinkedIn][http://www.linkedin.com/in/mohamed-salah](http://www.linkedin.com/in/mohamed-salah---)
 - Email: mohamed.uv9@gmail.com
