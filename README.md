@@ -11,6 +11,7 @@ I'm an **Electrical Engineering Student** and **Systems Developer** passionate a
 ### 🚀 Current Projects
 - **Smart Irrigation System:** IoT-based system using ESP32, Firebase, and various sensors.
 - **EV Electronic Differential:** Implementing control logic for electric vehicles using STM32 and CAN communication.
+- **Traffic Light Control System.
 
 ### 📫 How to reach me:
 - [LinkedIn][http://www.linkedin.com/in/mohamed-salah](http://www.linkedin.com/in/mohamed-salah---)
